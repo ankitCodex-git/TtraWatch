@@ -29,7 +29,7 @@ The primary goal of TtraWatch is to solve the problem of distraction on YouTube.
   - [Lucide](https://lucide.dev/) for iconography
   - [Motion](https://motion.dev/) for smooth animations
 - **Backend:**
-  - [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/)
+  - [Node.js](https://nodejs.org/)
   - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3) for lightweight, fast data storage
 - **Security:**
   - [Helmet](https://helmetjs.github.io/) for secure HTTP headers
